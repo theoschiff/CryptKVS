@@ -2,7 +2,7 @@
 (en)crypted key-value store inspired by SIGNAL
 
 ## Goal
-This 14-weeeks project was part of the CS-212 course and is written mostly in C.
+This 14-weeks project was part of the CS-212 course and is written mostly in C.
 The goal was to build a simplified secure valure recovery that successfully encrypts data in a shared database
 For more information, find below the complete project description, in french.
 
